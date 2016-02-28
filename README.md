@@ -1,2 +1,0 @@
-# eloquent-javascript-exercises
-sdf
