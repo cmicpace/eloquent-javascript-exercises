@@ -50,7 +50,7 @@ var countBs = function(string) {
 }
 
 var countChar = function(string, char) {
-  var count = 0;
+  var count = 0; 
   for (var i = 0; i < string.length; i++) {
     if (string.charAt(i).toUpperCase() === char.toUpperCase()) {
       count++
